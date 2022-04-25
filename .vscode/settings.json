@@ -1,0 +1,7 @@
+{
+  "css.styleSheets": [],
+
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
